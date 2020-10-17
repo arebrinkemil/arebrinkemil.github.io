@@ -2,7 +2,7 @@
   "name": "Donate App",
   "description": "This app helps you donate to worthy causes.",
   "icons": [{
-    "src": "Images/square",
+    "src": "Images/square.png",
     "sizes": "200x200"
   }]
 }
