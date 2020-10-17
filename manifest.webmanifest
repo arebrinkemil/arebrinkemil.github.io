@@ -1,9 +1,8 @@
 {
-  "name": "UFnamn",
-  "short_name": "UF",
-  "theme_color": "#0085ee",
-  "background_color": "#f60a3b",
-  "display": "standalone",
-  "scope": "/",
-  "start_url": "/"
+  "name": "Donate App",
+  "description": "This app helps you donate to worthy causes.",
+  "icons": [{
+    "src": "Images/Peng2.jpg",
+    "sizes": "192x192"
+  }]
 }
