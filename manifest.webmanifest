@@ -6,7 +6,7 @@
   "icons": [{
     "src": "Images/square.png",
     "sizes": "200x200"
-  }]
+  }],
   "start_url": "https://arebrinkemil.github.io/",
   "background_color": "#3367D6",
   "display": "standalone",
