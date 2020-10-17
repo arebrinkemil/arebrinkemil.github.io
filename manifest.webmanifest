@@ -1,0 +1,16 @@
+{
+"name": "UFsida",
+  "short_name": "UF",
+  "description": "UF pwa for UF.",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#fff",
+  "icons": [{
+    "src": "Images/Peng2.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "Images/Peng2.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }]
