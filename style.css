@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+nav {
+
+}
+
+
+.bg-light {
+  /* background-color: #f8f9fa !important; */
+  background-color: #00C690 !important;
+}
+
+.bg-dark {
+  /* background-color: #f8f9fa !important; */
+  background-color: #FF3667!important;
+}
+
+
+
+
+body {
+  font-family: 'Open Sans', 'sans-serif';
+  background-image: url("Images\wp4245025.jpg");
+  background-color: #007C6B;
+}
+
+/* header */
+h1 {
+  color: #55acee;
+  text-align: center;
+}
+
+
+#buttons {
+  padding-top: px;
+  text-align: center;
+}
+
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.container {
+    position: relative;
+}
+
+.btn {
+  border-radius: 0px;
+  padding: 50px 50px;
+  font-size: 42px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+  
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.blue {
+  background-color: #ff00f4;
+  box-shadow: 0px 5px 0px 0px #7f007a;
+}
+
+.blue:hover {
+  background-color: #b200aa;
+}
+
+.green {
+  background-color: #6f00ff;
+  box-shadow: 0px 5px 0px 0px #2c0066;
+}
+
+.green:hover {
+  background-color: #4d00b2;
+}
