@@ -1,16 +1,12 @@
 {
-"name": "UFsida",
-  "short_name": "UF",
-  "description": "UF pwa for UF.",
+  "short_name": "Weather",
+  "name": "Weather: Do I need an umbrella?",
+  "description": "Weather forecast information",
+ 
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
   "display": "standalone",
-  "start_url": ".",
-  "background_color": "#fff",
-  "icons": [{
-    "src": "Images/Peng2.jpg",
-    "sizes": "48x48",
-    "type": "image/jpg"
-  }, {
-    "src": "Images/Peng2.jpg",
-    "sizes": "144x144",
-    "type": "image/jpg"
-  }]
+  "scope": "/",
+  "theme_color": "#3367D6",
+  
+}
