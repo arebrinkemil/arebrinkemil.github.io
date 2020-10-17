@@ -1,8 +1,15 @@
+
 {
-  "name": "Donate App",
+  "short_name": "Weather",
+ "name": "Donate App",
   "description": "This app helps you donate to worthy causes.",
   "icons": [{
-    "src": "Images/square",
+    "src": "Images/square.png",
     "sizes": "200x200"
   }]
+  "start_url": "https://arebrinkemil.github.io/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
 }
