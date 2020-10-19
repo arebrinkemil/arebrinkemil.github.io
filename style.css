@@ -4,6 +4,14 @@ nav {
 
 }
 
+#png1 {
+    position:absolute;
+    top:40;
+    left:0;
+    z-index:0;
+    width: 100%;
+}
+
 
 .bg-light {
   /* background-color: #f8f9fa !important; */
