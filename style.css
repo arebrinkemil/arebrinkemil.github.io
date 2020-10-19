@@ -7,20 +7,23 @@ nav {
 
 .bg-light {
   /* background-color: #f8f9fa !important; */
-  background-color: #00C690 !important;
+  background-color: #88abff !important;
 }
 
 .bg-dark {
-  /* background-color: #f8f9fa !important; */
-  background-color: #FF3667!important;
+background-color: #343a40 !important;
+background-color: #d1e3ff !important;
 }
 
 
+.lead {
+  font-size: 200%;
+}
 
 
 body {
   font-family: 'Open Sans', 'sans-serif';
-  background-color: #007C6B;
+  background-color: #c6efff;
 }
 
 /* header */
@@ -61,13 +64,13 @@ video {
 .btn {
   border-radius: 0px;
   padding: 50px 50px;
-  font-size: 42px;
+  font-size: 80px;
   text-decoration: none;
   margin: 20px;
   color: #fff;
   position: relative;
   display: inline-block;
-  
+
 }
 
 .btn:active {
@@ -77,19 +80,28 @@ video {
 }
 
 .blue {
-  background-color: #ff00f4;
-  box-shadow: 0px 5px 0px 0px #7f007a;
+  background-color: #DB162F;
+  box-shadow: 0px 5px 0px 0px #3B1F2B;
 }
 
 .blue:hover {
-  background-color: #b200aa;
+  background-color: #950F21;
 }
 
 .green {
-  background-color: #6f00ff;
-  box-shadow: 0px 5px 0px 0px #2c0066;
+  background-color: #DB162F;
+  box-shadow: 0px 5px 0px 0px #3B1F2B;
 }
 
 .green:hover {
-  background-color: #4d00b2;
+  background-color: #950F21;
+}
+
+
+/* bootstrap.min.css | https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css */
+
+@media (min-width: 768px) {
+  .col-md-5 {
+    max-width: 100%; */
+  }
 }
