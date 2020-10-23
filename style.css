@@ -32,10 +32,13 @@ background-color: #d1e3ff !important;
 
 body {
   font-family: 'Open Sans', 'sans-serif';
-  background-color: #c6efff;
+  background-color: #e6f8ff;
 
 }
 
+#contact {
+  text-align: left!important;
+}
 
 
 
@@ -58,7 +61,7 @@ h2 {
 }
 
 #topvid {
-background-color: #d1e3ff;
+background-color: #e6f8ff;
 
 }
 
